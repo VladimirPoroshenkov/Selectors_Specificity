@@ -1,0 +1,74 @@
+/* По названию */
+h1 {
+    color:limegreen;
+}
+/* По названию */
+h2 {
+    color:maroon;
+}
+/* По названию */
+h3 {
+    color:cornflowerblue;
+}
+/* По названию */
+span {
+    color:blue;
+}
+
+/* По названию */
+p {
+    color:rgb(148, 146, 7);
+}
+
+P:first-letter{
+    font-size: 30px;
+    color:brown;
+}
+
+/* По классу */
+.text-red {
+    color:brown;
+    text-indent: 10px ;
+}
+
+/* По классу */
+.text-center {
+    text-align: center;
+}
+
+.text {
+    margin: 15px;
+    font-size: 20px;
+    color: darkorchid;
+}
+
+/*По индетификатору*/
+#Content {
+    color:rgb(13, 241, 241);
+    float:none;
+}
+
+/* По влеженности */
+div.text-red ul li{
+    color:deeppink;
+}
+
+/* ссылки */
+a {
+    color:rgb(209, 13, 157);
+}
+a:hover{
+    color:deepskyblue;
+}
+a:active{
+    color:red;
+}
+a:visited{
+    color:rgb(136, 14, 152);
+}
+
+p .cursive-styles {
+    margin: 15px;
+    font-size: 30px;
+    color: rgb(247, 122, 6);
+}
